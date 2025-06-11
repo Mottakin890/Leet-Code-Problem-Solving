@@ -16,3 +16,5 @@ void main(){
     var obj = Solution();
     print(obj.twoSum([2,3,4], 6));
 }
+
+//out put : [0, 2] as expected....
